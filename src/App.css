@@ -25,7 +25,11 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #2d6678;
+}
+
+.App-popup, .App-button {
+  margin-top: 7px;
 }
 
 @keyframes App-logo-spin {
